@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Hello, world!
 
-You can use the [editor on GitHub](https://github.com/danielghand/danielhand.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你好，我是Daniel。您现在看到的，是我第一次尝试用blog的方式，参与到互联网的生活。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+严格来讲，现在我的所作所为，不过是从一个平台转到另外一个平台而已。所以首先，我想感谢GitHub给我提供了一个展示自己的平台。在这个全球最大的开源软件社区，从前还是游客的我，收获了很多，除了有形的软件产品，还有能独立解决技术问题的希望和成就感。在这里，内容为王，没有优质的内容产出，只能被人遗忘。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielghand/danielhand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我想成为一个能产出优质内容的人。我想在GitHub迈出这一步。
